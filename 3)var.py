@@ -18,3 +18,21 @@ a=4
 A=6
 print(a)
 print(A)
+#Legal variable names:myvar = "John"
+#my_var = "John"
+#_my_var = "John"
+#myVar = "John"
+#MYVAR = "John"
+#myvar2 = "John" and some illegal names : 2myvarand so on
+
+#to assign multiple variables
+x,y,z="Orange","Banana","Cherry"
+print(x)
+print(y)
+print(z)
+
+#ways to print output var
+x="Python"
+y="is"
+z="Awesome"
+print(x,y,z)
