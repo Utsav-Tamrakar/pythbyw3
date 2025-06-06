@@ -12,3 +12,9 @@ z=float(3)
 print(x)
 print(y)
 print(z)
+# x="john" and x='john'both are same in python language
+# case sensitive
+a=4 
+A=6
+print(a)
+print(A)
