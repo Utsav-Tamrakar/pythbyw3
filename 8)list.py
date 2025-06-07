@@ -1,0 +1,3 @@
+#List:It is used to store multiple items in a single variable...list are one of four built-in data types in python to store collections of data and the other three are Tuple,Set,and Dictionary.....
+mylist=["Apple","Banana","Cherry"]
+print(mylist)
